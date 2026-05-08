@@ -1,4 +1,4 @@
-# ⚡ Olá, eu sou a Luana! 👋
+<h1 style="color: #00D9FF;">⚡ Olá, eu sou a Luana! 👋</h1>
 
 > 🌆 **NIGHT CITY STATUS:** ONLINE  
 > *Desenvolvedora FullStack Java em formação | Apaixonada por tecnologia e criatividade*
