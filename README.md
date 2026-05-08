@@ -22,4 +22,4 @@ Aqui você pode usar ícones para ficar mais visual:
 ---
 
 ### 📊 Estatísticas do GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunnie-porto&show_icons=true&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lunnie-porto&show_icons=true&theme=vision-glow&include_all_commits=true)
