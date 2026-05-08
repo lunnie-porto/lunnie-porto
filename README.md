@@ -1,77 +1,77 @@
 # ⚡ Olá, eu sou a Luana! 👋
 
-# 🌆 **NIGHT CITY STATUS:** ONLINE  
-# *Desenvolvedora FullStack Java em formação | Apaixonada por tecnologia e criatividade*
-
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNsamtydTJreHE2bWtpNTVldnZ2eGdyZnh3YzhqNW8xM3RqZ3FtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cHMh25uDAJ39f7eg5E/giphy.gif" alt="Songbird - Phantom Liberty" width="400" />
 </div>
 
 ---
 
-<details>
-<summary><h2>🇧🇷 Português</h2></summary>
-
-### 🔥 Sobre Mim
-
-Sou apaixonada por tecnologia e atualmente estou mergulhando no ecossistema Java com a Generation Brasil 🚀  
-Adoro conectar lógica com criatividade e estou sempre explorando novas formas de resolver problemas.
-
-- 💻 Desenvolvedora FullStack Java em formação
-- 🎮 Apaixonada por Jogos, Animes e Filmes Musicais
-- 💡 Lógica + Criatividade = Inovação
-- 🌐 Explorando: Java, Python.
-
-### 💻 Tecnologias e Ferramentas
-
 <div align="center">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+  <h2>🌆 Choose your language | Escolha seu idioma</h2>
 </div>
 
-### 🎮 Interesses & Fun Facts
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; margin: 10px;">
+    <details>
+      <summary style="list-style: none; cursor: pointer;">
+        <img src="https://img.shields.io/badge/English-00D9FF?style=for-the-badge&logo=google-translate&logoColor=000" />
+      </summary>
+      <div align="left" style="max-width: 500px; margin-top: 15px;">
+        <h3>🔥 About Me</h3>
+        <p>I'm a <strong>FullStack Java Developer</strong> in training at <strong>Generation Brasil</strong>. Passionate about technology and diving into the Java ecosystem! I love connecting logic with creativity and always exploring new ways to solve problems.</p>
+        <ul>
+          <li>💻 FullStack Java Developer in Training</li>
+          <li>🎮 Passionate about Games, Anime and Movie Musicals</li>
+          <li>💡 Logic + Creativity = Innovation</li>
+          <li>🌐 Exploring: Java, Python, JavaScript</li>
+          <li>🕹️ Completely passionate about games since childhood, that's what made me think about technology</li>
+          <li>🎨 Design Roots: Experience in illustration and graphic design</li>
+          <li>🌟 Current Focus: Mastering Java, Git, Python</li>
+        </ul>
+        <h3>💻 Technologies & Tools:</h3>
+        <div align="center">
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+        </div>
+        <h3>🔗 Connect with me:</h3>
+        <a href="https://www.linkedin.com/in/luanamoreiraporto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="mailto:luanamporto45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://www.instagram.com/roseosnsd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      </div>
+    </details>
+  </div>
 
-- 🕹️ Completamente apaixonada por jogos desde criança, foi o que me fez pensar na tecnologia.
-- 🌟 Foco Atual: Dominando Java, Git, Python
-
-### 🔗 Conecte-se Comigo
-
-- 📱 **LinkedIn:** [linkedin.com/in/luanamoreiraporto](https://www.linkedin.com/in/luanamoreiraporto/)
-- 📍 **Localização:** Osasco, São Paulo
-- 💬 **Fale comigo sobre:** Jogos, Animes, Musicais e Desenvolvimento!
+  <div style="display: inline-block; vertical-align: top; margin: 10px;">
+    <details>
+      <summary style="list-style: none; cursor: pointer;">
+        <img src="https://img.shields.io/badge/Português-FF006E?style=for-the-badge&logo=google-translate&logoColor=white" />
+      </summary>
+      <div align="left" style="max-width: 500px; margin-top: 15px;">
+        <h3>🔥 Sobre Mim</h3>
+        <p>Sou <strong>Desenvolvedora FullStack Java</strong> em formação pela <strong>Generation Brasil</strong>. Apaixonada por tecnologia e atualmente mergulhando no ecossistema Java! Adoro conectar lógica com criatividade e estou sempre explorando novas formas de resolver problemas.</p>
+        <ul>
+          <li>💻 Desenvolvedora FullStack Java em formação</li>
+          <li>🎮 Apaixonada por Jogos, Animes e Filmes Musicais</li>
+          <li>💡 Lógica + Criatividade = Inovação</li>
+          <li>🌐 Explorando: Java, Python, JavaScript</li>
+          <li>🕹️ Completamente apaixonada por jogos desde criança, foi o que me fez pensar na tecnologia</li>
+          <li>🎨 Design Roots: Experiência em ilustração e design gráfico</li>
+          <li>🌟 Foco Atual: Dominando Java, Git, Python</li>
+        </ul>
+        <h3>💻 Tecnologias e Ferramentas:</h3>
+        <div align="center">
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+        </div>
+        <h3>🔗 Conecte-se Comigo:</h3>
+        <a href="https://www.linkedin.com/in/luanamoreiraporto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="mailto:luanamporto45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://www.instagram.com/roseosnsd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      </div>
+    </details>
+  </div>
+</div>
 
 ---
-
-<details>
-<summary><h2>🇺🇸 English</h2></summary>
-
-### 🔥 About Me
-
-I'm passionate about technology and currently diving into the Java ecosystem with Generation Brasil! 🚀  
-I love connecting logic with creativity and always exploring new ways to solve problems.
-
-- 💻 FullStack Java Developer in Training
-- 🎮 Passionate about Games, Anime and Musicals
-- 💡 Logic + Creativity = Innovation
-- 🌐 Exploring: Java, Python.
-
-### 💻 Technologies & Tools
-
-<div align="center">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
-</div>
-
-### 🎮 Interests & Fun Facts
-
-- 🕹️ Completely passionate about games since childhood, that's what made me think about technology.
-- 🌟 Current Focus: Mastering Java, Git, Python
-
-### 🔗 Connect with Me
-
-- 📱 **LinkedIn:** [linkedin.com/in/luanamoreiraporto](https://www.linkedin.com/in/luanamoreiraporto/)
-- 📍 **Location:** Osasco, São Paulo
-- 💬 **Talk to me about:** Games, Anime, Musicals and Development!
-
