@@ -18,11 +18,11 @@
       </summary>
       <div align="left" style="max-width: 500px; margin-top: 15px;">
         <h3>🔥 About Me</h3>
-        # 🌆 **NIGHT CITY STATUS:** ONLINE 
+        <h3>🌆 NIGHT CITY STATUS: ONLINE</h3>
           <p>I'm a graduate in Systems Analysis and Development Technology, passionate about technology and currently diving into the Java ecosystem with Generation Brasil 🚀<br>I love connecting logic with creativity and always exploring new ways to solve problems.</p>
         <ul>
           <li>💻 FullStack Java Developer in Training</li>
-          <li>🎮 Passionate about Games, Anime and Musicals</li>
+          <li>🎮 Games, Anime and Musicals</li>
           <li>💡 Logic + Creativity = Innovation</li>
           <li>🌐 Exploring: Java, Python, JavaScript</li>
           <li>🕹️ Completely passionate about games since childhood, that's what made me think about technology</li>
@@ -49,11 +49,11 @@
       </summary>
       <div align="left" style="max-width: 500px; margin-top: 15px;">
         <h3>🔥 Sobre Mim</h3>
-         # 🌆 **NIGHT CITY STATUS:** ONLINE 
+        <h3>🌆 NIGHT CITY STATUS: ONLINE</h3> 
       <p>Sou formada em Tecnólogo de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia. Atualmente estou mergulhando no ecossistema Java com a Generation Brasil 🚀<br>Adoro conectar lógica com criatividade e estou sempre explorando novas formas de resolver problemas.</p>
         <ul>
           <li>💻 Desenvolvedora FullStack Java em formação</li>
-          <li>🎮 Apaixonada por Jogos, Animes e Musicais</li>
+          <li>🎮 Jogos, Animes e Musicais</li>
           <li>💡 Lógica + Criatividade = Inovação</li>
           <li>🌐 Explorando: Java, Python, JavaScript</li>
           <li>🕹️ Completamente apaixonada por jogos desde criança, foi o que me fez pensar na tecnologia</li>
