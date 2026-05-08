@@ -18,3 +18,6 @@ Aqui você pode usar ícones para ficar mais visual:
 - 🌱 **Atualmente aprendendo:** Java
 - 💬 **Pergunte-me sobre:** Jogos, Animes e Filmes Musicais! 🎶
 - ✉️ **Como me encontrar:** https://www.linkedin.com/in/luanamoreiraporto/
+
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lunnie-porto&theme=dracula)
