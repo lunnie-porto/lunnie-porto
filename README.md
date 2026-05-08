@@ -18,8 +18,3 @@ Aqui você pode usar ícones para ficar mais visual:
 - 🌱 **Atualmente aprendendo:** Java
 - 💬 **Pergunte-me sobre:** Jogos, Animes e Filmes Musicais! 🎶
 - ✉️ **Como me encontrar:** https://www.linkedin.com/in/luanamoreiraporto/
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lunnie-porto&show_icons=true&theme=vision-glow&include_all_commits=true)
