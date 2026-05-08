@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Luana! 👋
 
-<!--
-**lunnie-porto/lunnie-porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedora FullStack Java em formação 🚀
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia e atualmente estou mergulhando no ecossistema Java. Adoro conectar lógica com criatividade!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+Aqui você pode usar ícones para ficar mais visual:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📚 Sobre mim
+- 🌱 **Atualmente aprendendo:** Java
+- 💬 **Pergunte-me sobre:** Jogos, Animes e Filmes Musicais! 🎶
+- ✉️ **Como me encontrar:** https://www.linkedin.com/in/luanamoreiraporto/
+
+---
+
+### 📊 Estatísticas do GitHub
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunnie-porto&show_icons=true&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
