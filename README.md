@@ -14,16 +14,13 @@
 ### 🛠️ SYS_KNOWLEDGE (Technologies)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ### 📂 ::BIO_DATA (Sobre mim)::
 - 🌱 **CURRENT_TASK:** Aprofundando em **Java e Spring Boot**.
-- 💬 **ENCRYPTED_QUERY:** Jogos, Animes e Cyberpunk Lore! 🎧
-- ⚡ **FUN_FACT:** [Coloque algo aqui, ex: "Já zerei Cyberpunk 3 vezes!"]
+- 💬 **ENCRYPTED_QUERY:** Jogos, Animes e Musicais!
 - 📟 **ACCESS_POINT:** [LinkedIn](https://www.linkedin.com/in/luanamoreiraporto/)
 
 ---
