@@ -1,15 +1,5 @@
 # ⚡ Olá, eu sou a Luana! 👋
 
-
-███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
-██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
-█████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗  
-██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝  
-██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
-╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
-
-
-
 > 🌆 **NIGHT CITY STATUS:** ONLINE  
 > *Desenvolvedora FullStack Java em formação | Apaixonada por tecnologia e criatividade*
 
@@ -29,6 +19,7 @@ Adoro conectar lógica com criatividade e estou sempre explorando novas formas d
 <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 
 ## 🔗 Conecte-se Comigo
 
