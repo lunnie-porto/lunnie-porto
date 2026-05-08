@@ -16,9 +16,9 @@ Adoro conectar lógica com criatividade e estou sempre explorando novas formas d
 
 ### 💻 Tecnologias e Ferramentas
 
-<img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-00D9FF?style=for-the-badge&logo=java&logoColor=000" />
+<img src="https://img.shields.io/badge/Git-FF006E?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFBE0B?style=for-the-badge&logo=python&logoColor=000" />
 
 
 ## 🔗 Conecte-se Comigo
