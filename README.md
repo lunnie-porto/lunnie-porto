@@ -1,4 +1,4 @@
-# ⚡ Olá, eu sou a Luana! 👋
+# 🤖 HELLO, I'M LUANA! 👋 🤖
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNsamtydTJreHE2bWtpNTVldnZ2eGdyZnh3YzhqNW8xM3RqZ3FtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cHMh25uDAJ39f7eg5E/giphy.gif" alt="Songbird - Phantom Liberty" width="400" />
