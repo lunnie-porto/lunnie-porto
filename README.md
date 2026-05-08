@@ -75,3 +75,17 @@
 </div>
 
 ---
+
+## 📊 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunnie-porto&show_icons=true&theme=dark&hide_border=true)](https://github.com/lunnie-porto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunnie-porto&layout=compact&theme=dark&hide_border=true)](https://github.com/lunnie-porto)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3q2K6HIQ6playpRC/giphy.gif" alt="Glitch" width="400" />
+</div>
+
+---
