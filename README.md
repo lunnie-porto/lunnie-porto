@@ -1,7 +1,7 @@
 <h1 style="color: #00D9FF;">⚡ Olá, eu sou a Luana! 👋</h1>
 
-> 🌆 **NIGHT CITY STATUS:** ONLINE  
-> *Desenvolvedora FullStack Java em formação | Apaixonada por tecnologia e criatividade*
+## 🌆 **NIGHT CITY STATUS:** ONLINE  
+## *Desenvolvedora FullStack Java em formação | Apaixonada por tecnologia e criatividade*
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNsamtydTJreHE2bWtpNTVldnZ2eGdyZnh3YzhqNW8xM3RqZ3FtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cHMh25uDAJ39f7eg5E/giphy.gif" alt="Songbird - Phantom Liberty" width="400" />
