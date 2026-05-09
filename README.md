@@ -24,7 +24,7 @@
           <li>💻 FullStack Java Developer in Training</li>
           <li>🎮 Games, Anime and Musicals</li>
           <li>💡 Logic + Creativity = Innovation</li>
-          <li>🌐 Exploring: Java, Python, JavaScript</li>
+          <li>🌐 Exploring: Java, Python</li>
           <li>🕹️ Completely passionate about games since childhood, that's what made me think about technology</li>
           <li>🌟 Current Focus: Mastering Java, Git, Python</li>
         </ul>
@@ -55,7 +55,7 @@
           <li>💻 Desenvolvedora FullStack Java em formação</li>
           <li>🎮 Jogos, Animes e Musicais</li>
           <li>💡 Lógica + Criatividade = Inovação</li>
-          <li>🌐 Explorando: Java, Python, JavaScript</li>
+          <li>🌐 Explorando: Java, Python</li>
           <li>🕹️ Completamente apaixonada por jogos desde criança, foi o que me fez pensar na tecnologia</li>
           <li>🌟 Foco Atual: Dominando Java, Git, Python</li>
         </ul>
